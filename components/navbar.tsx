@@ -14,6 +14,7 @@ function Navbar() {
         <Link href='/'>Home</Link>
         <Link href='/info'>Info</Link>
         <Link href='/about'>About</Link>
+        <Link href='/post'>Post</Link>
     </nav>;
 }
 
